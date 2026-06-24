@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "C:/AI-Learning/jarvis/myapp/Scripts/python.exe",
+    "python.analysis.extraPaths": [
+        "./myapp/Lib/site-packages"
+    ]
+}
